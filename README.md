@@ -1,4 +1,4 @@
-![logo](https://www.canva.com/design/DAGc60Urpa4/DEkL-nX2sgVnL4gXEUC62g/edit?utm_content=DAGc60Urpa4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![logo]("C:\Users\sanik\Downloads\SaNiKa NaRwAdE.png")
 <h1 align="center">Hi 👋, I'm Sanika Narwade</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
