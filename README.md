@@ -1,4 +1,4 @@
-![Logo](https://github.com/SN4kNARWADE/SN4kNARWADE/blob/main/SaNiKa%20NaRwAdE.png)
+<img src="https://github.com/SN4kNARWADE/SN4kNARWADE/blob/main/SaNiKa%20NaRwAdE.png" alt="Logo" style="width: 100%; height: auto;" />
 
 <h1 align="center">Hi 👋, I'm Sanika Narwade</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
