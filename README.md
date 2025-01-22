@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://www.canva.com/design/DAGc60Urpa4/DEkL-nX2sgVnL4gXEUC62g/edit?utm_content=DAGc60Urpa4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <h1 align="center">Hi 👋, I'm Sanika Narwade</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/simplified_learner]()
+- 👨‍💻 All of my projects are available at
 
 - ⚡ Fun fact **I am funny😅**
 
